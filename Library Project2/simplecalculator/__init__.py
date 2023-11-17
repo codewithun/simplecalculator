@@ -1,1 +1,0 @@
-from simplemodule import SimpleCalculator
